@@ -1,5 +1,5 @@
 #page title
-page_title                                : Mirror App - appli-ne                     # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Mirror App - appli-ne（アプリね）          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                :                                           # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -19,7 +19,7 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : appli-ne                                
+your_name                                 : appli-ne（アプリね）                                
 your_link                                 :                      
 your_city                                 : Japan                                
 email_address                             : info.appline.jp@gmail.com
