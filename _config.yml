@@ -66,9 +66,9 @@ features                                  :
     description                           : Share a still image.
     fontawesome_icon_name                 : share-alt
 
-  - title                                 : 
-    description                           : 
-    fontawesome_icon_name                 : 
+  - title                                 : Supported OS
+    description                           : Android 5.0 or later
+    fontawesome_icon_name                 : mobile-alt
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
