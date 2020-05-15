@@ -34,6 +34,14 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
+  - title                                 : Horizontal flip
+    description                           : Horizontal flip
+    fontawesome_icon_name                 : info-circle
+
+  - title                                 : Color filter
+    description                           : Easy to see with color filter!<br>(Negative, Gray Scale, Sepia, Bitray)
+    fontawesome_icon_name                 : info-circle
+
   - title                                 : Pause preview
     description                           : Pause preview to see image.
     fontawesome_icon_name                 : pause-circle
