@@ -37,6 +37,10 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
+  - title                                 : New!!!
+    description                           : You can save a still image by long tap the preview pause button!
+    fontawesome_icon_name                 : info-circle
+
   - title                                 : Horizontal flip
     description                           : Horizontal flip
     fontawesome_icon_name                 : info-circle
