@@ -28,7 +28,13 @@
 				<li><a href="{{ site.presskit_download_link }}" target="_self">Home</a></li>
 			{% endif %}
 			{% if site.lang_link %}
-				<li><a href="{{ site.lang_link }}" target="_self">{{ site.lang_name }}</a></li>
+				<li>
+					{% if page.url != '/' %}
+						<a href="../{{ site.lang_link }}" target="_self">{{ site.lang_name }}</a>
+					{% else %}
+						<a href="{{ site.lang_link }}" target="_self">{{ site.lang_name }}</a>
+					{% endif %}
+				</li>
 			{% endif %}
 		</ul>
 	</nav>
