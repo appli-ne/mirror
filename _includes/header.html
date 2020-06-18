@@ -25,7 +25,13 @@
 				{% endif %}
 			{% endfor %}
 			{% if site.presskit_download_link %}
-				<li><a href="{{ site.presskit_download_link }}" target="_self">Home</a></li>
+				<li>
+					{% if page.url != '/' %}
+						<a href="../{{ site.presskit_download_link }}" target="_self">Home</a>
+					{% else %}
+						<a href="{{ site.presskit_download_link }}" target="_self">Home</a>
+					{% endif %}
+				</li>
 			{% endif %}
 			{% if site.lang_link %}
 				<li>
