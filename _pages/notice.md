@@ -4,7 +4,7 @@ title: Notice
 include_in_header: false
 icon_only_header: true
 ---
-# お知らせ
+# Notice
 2020/07/19
 <br>
 <br>
