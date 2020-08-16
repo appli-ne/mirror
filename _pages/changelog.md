@@ -7,6 +7,14 @@ include_in_header: true
 # `Release notes`
 <br>
 
+## **Version 1.7.0**
+2020/08/16
+- Added camera switch (magnifying glass app) button
+- Bug fix for ads hiding
+- Bug fixes
+
+<br>
+
 ## **Version 1.6.4**
 2020/07/24
 - Fixed a bug that does not start due to a camera error
