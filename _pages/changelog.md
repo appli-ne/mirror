@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Release notes
-include_in_header: true
+include_in_header: false
 ---
 
 # `Release notes`
