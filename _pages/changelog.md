@@ -7,6 +7,13 @@ include_in_header: false
 # `Release notes`
 <br>
 
+## **Version 1.7.1**
+2020/09/03
+- Message display to install the magnifying glass app when switching cameras
+- Bug fixes
+
+<br>
+
 ## **Version 1.7.0**
 2020/08/16
 - Added camera switch (magnifying glass app) button
