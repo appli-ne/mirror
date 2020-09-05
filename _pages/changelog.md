@@ -8,8 +8,9 @@ include_in_header: false
 <br>
 
 ## **Version 1.7.1**
-2020/09/03
+2020/09/05
 - Message display to install the magnifying glass app when switching cameras
+- Support Adaptive Banners
 - Bug fixes
 
 <br>
