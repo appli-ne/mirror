@@ -3,6 +3,7 @@ layout: page
 title: Notice
 include_in_header: false
 icon_only_header: true
+date: 2020-08-16 00:00
 ---
 # Notice
 2020/08/16
