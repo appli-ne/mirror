@@ -2,10 +2,22 @@
 layout: page
 title: Release notes
 include_in_header: false
-date: 2020-10-28 17:00
+date: 2020-12-23 17:00
 ---
 
 # `Release notes`
+<br>
+
+## **Version 1.9.0**
+2020/12/23
+- Dark theme support
+- Fixed a bug where the button layout was broken.
+- Added back button to Help and About.
+- Android11 support
+- Optimization of camera-related processing
+- Changed to allow users to select the amount of billing.
+
+---
 <br>
 
 ## **Version 1.8.0**
