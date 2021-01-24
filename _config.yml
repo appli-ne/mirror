@@ -1,5 +1,6 @@
 #page title
-page_title                                : Mirror App - appli-ne（アプリね）          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : 【Mirror App Free】Camera apps for makeup and selfies - appli-ne（アプリね）
+                                                                                      # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                :                                           # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
