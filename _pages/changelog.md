@@ -2,10 +2,21 @@
 layout: page
 title: Release notes
 include_in_header: false
-date: 2020-12-23 17:00
+date: 2021-03-02 23:00
 ---
 
 # `Release notes`
+<br>
+
+## **Version 1.10.0**
+2021/03/02
+- Changed the menu UI to be easier to read.
+- Added manage subscriptions
+- Change of advertisement non-display (paid) selection UI
+- Supports 12 additional languages
+- Bug fixes
+
+---
 <br>
 
 ## **Version 1.9.0**
