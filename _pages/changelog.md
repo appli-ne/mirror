@@ -2,11 +2,18 @@
 layout: page
 title: Release notes
 include_in_header: false
-date: 2021-03-02 23:00
+date: 2021-03-05 12:00
 ---
 
 # `Release notes`
 <br>
+
+## **Version 1.10.1**
+2021/03/05
+- Fixed a bug that ads cannot be remove ads (Paid)
+- Fix help
+
+---<br>
 
 ## **Version 1.10.0**
 2021/03/02
