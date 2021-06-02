@@ -2,10 +2,17 @@
 layout: page
 title: Release notes
 include_in_header: false
-date: 2021-05-28 22:00
+date: 2021-06-02 17:00
 ---
 
 # `Release notes`
+<br>
+
+## **Version 1.11.1**
+2021/06/02
+- Fixed a bug that the image was distorted vertically
+
+---
 <br>
 
 ## **Version 1.11.0**
