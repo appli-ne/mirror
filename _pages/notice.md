@@ -3,10 +3,10 @@ layout: page
 title: Notice
 include_in_header: false
 icon_only_header: true
-date: 2021-06-22 17:00
+date: 2021-06-28 17:00
 ---
 # Notice
-2021/06/22
+2021/06/28
 <br><br>
 We are distributing a promotion code that you can try for free for 10 days!
 <br><br>
@@ -15,6 +15,8 @@ promo code：M1RR0R202106
 （Until 2021/06/30）
 <br><br><br>
 【How to Use】
+<br>
+![](../assets/notice/PromotionCode.png)
 <br>
 １．Select 「Remove ads (Paid)」 from the menu.
 <br>
