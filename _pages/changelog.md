@@ -2,10 +2,19 @@
 layout: page
 title: Release notes
 include_in_header: false
-date: 2021-06-02 17:00
+date: 2021-08-06 17:00
 ---
 
 # `Release notes`
+<br>
+
+## **Version 1.12.0**
+2021/08/06
+- Bug fixes
+- Ad optimization
+- Renewal of remove ads
+
+---
 <br>
 
 ## **Version 1.11.1**
