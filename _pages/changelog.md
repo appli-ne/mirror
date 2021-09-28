@@ -2,10 +2,19 @@
 layout: page
 title: Release notes
 include_in_header: false
-date: 2021-09-03 17:00
+date: 2021-09-28 17:00
 ---
 
 # `Release notes`
+<br>
+
+## **Version 1.12.2**
+2021/09/28
+- Change the display position of banner ads
+- Changed 「Send Feedback」 to email
+- Added 「Share」 menu
+
+---
 <br>
 
 ## **Version 1.12.1**
