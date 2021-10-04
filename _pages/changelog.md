@@ -2,10 +2,19 @@
 layout: page
 title: Release notes
 include_in_header: false
-date: 2021-09-28 17:00
+date: 2021-10-04 23:00
 ---
 
 # `Release notes`
+<br>
+
+## **Version 1.12.3**
+2021/10/04
+- Bug fixes
+- Fixed a bug that made the app unresponsive
+- Fixed a bug in updating banner ads
+
+---
 <br>
 
 ## **Version 1.12.2**
