@@ -2,10 +2,21 @@
 layout: page
 title: Release notes
 include_in_header: false
-date: 2021-10-04 23:00
+date: 2021-12-15 18:00
 ---
 
 # `Release notes`
+<br>
+
+## **Version 1.13.0**
+2021/12/15
+- Improved image quality (depending on the device)
+- Fixed to hide the guide display
+- Speeded up processing at startup
+- Improved the display of the 「Remove ads」 selection screen
+- Android12 support
+
+---
 <br>
 
 ## **Version 1.12.3**
