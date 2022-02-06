@@ -8,13 +8,6 @@ date: 2022-02-06 19:00
 # `Release notes`
 <br>
 
-## **Version 1.13.2**
-2022/02/06
-- Improved the display timing of ads
-
----
-<br>
-
 ## **Version 1.13.1**
 2022/01/25
 - Guide display related improvements
