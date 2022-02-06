@@ -2,10 +2,17 @@
 layout: page
 title: Release notes
 include_in_header: false
-date: 2022-02-06 19:00
+date: 2022-02-06 16:00
 ---
 
 # `Release notes`
+<br>
+
+## **Version 1.13.2**
+2022/02/06
+- Improved the display timing of ads
+
+---
 <br>
 
 ## **Version 1.13.1**
