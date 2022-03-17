@@ -7,6 +7,13 @@ include_in_header: false
 # `Release notes`
 <br>
 
+## **Version 1.13.3**
+2022/03/16
+- Fixed the message
+
+---
+<br>
+
 ## **Version 1.13.2**
 2022/02/06
 - Improved the display timing of ads
