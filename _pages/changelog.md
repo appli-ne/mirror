@@ -7,6 +7,16 @@ include_in_header: false
 # `Release notes`
 <br>
 
+## **Version 1.16.0**
+2025/10/29
+- Edge-to-edge support
+- Screen rotation: Omnidirectional support
+- Bug fixes
+- Android16 support
+
+---
+<br>
+
 ## **Version 1.15.0**
 2024/08/31
 - Speeded up processing at startup
